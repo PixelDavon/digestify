@@ -237,6 +237,7 @@ The next iteration focuses on making the saved library more persistent and pract
 - Better loading and failure feedback
 - Rate limiting and model-usage controls
 - Stronger API-key and production security
+- Improved UI/UX  (Icons to represent saved link's site)
 
 ### Phase 2: Context-Aware Curated Summaries
 
